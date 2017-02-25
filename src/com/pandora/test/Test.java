@@ -41,5 +41,7 @@ public class Test {
 		System.out.println("JDK Map长度为：" + jdkMap.size());
 		System.out.println("JDK Map耗时为：" + (t4-t3) + "ms");
 
+		System.out.println("这一条是使用Idea提交的代码。");
+
 	}
 }
